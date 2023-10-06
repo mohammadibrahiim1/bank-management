@@ -5,6 +5,7 @@
   font-weight: 600;
   line-height: normal;
 }
+
 .care {
   color: #fcba2d;
   font-size: 24px;
@@ -12,6 +13,7 @@
   font-weight: 600;
   line-height: normal;
 }
+
 .sidebar-title {
   color: #034b5e;
   font-family: Poppins;
@@ -38,3 +40,28 @@
   background-color: #c4c4c4;
   margin-top: 15px;
 }
+
+/* syntactically awesome style sheet */
+/* extension of css */
+/* need
+1.html,
+2.css,
+3.javascript,
+ */
+/* styling with
+
+ 1.variables,
+ 2.nested rules,
+ 3.mixins,
+ 4.imports,
+ 5.inheritance,
+
+
+ to make our code simpler and more maintainable
+ no dry
+ it supports all type of css.
+
+
+ extension file:
+ demo.scss
+ */ /*# sourceMappingURL=Sidebar.css.map */
