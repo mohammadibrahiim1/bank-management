@@ -12,11 +12,29 @@
   font-weight: 600;
   line-height: normal;
 }
-.general {
+.sidebar-title {
   color: #034b5e;
   font-family: Poppins;
-  font-size: 14px;
+  font-size: 15px;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
+}
+
+.list-group-item {
+  color: #c4c4c4;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+
+.text-decoration-none {
+  margin-top: 30px;
+}
+
+.end-line {
+  width: 203.002px;
+  height: 2.3px;
+  background-color: #c4c4c4;
+  margin-top: 15px;
 }
