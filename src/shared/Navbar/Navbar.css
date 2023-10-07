@@ -1,0 +1,41 @@
+.navbar-brand {
+  color: var(--text-primary, #5bb5a2);
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 100%; /* 32px */
+  letter-spacing: -0.96px;
+}
+
+.nav-link {
+  color: var(--text-default, #1a191e);
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 170%;
+}
+
+.btn-outline-success {
+  color: var(--background-primary, #ffffff);
+  background-color: #5bb5a2;
+  border: 0;
+  border-radius: 5px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100%;
+  letter-spacing: -0.54px;
+  padding: 12px 16px;
+}
+
+.login {
+  color: #5bb5a2;
+  border: 0;
+  border-radius: 5px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 100%;
+  letter-spacing: -0.54px;
+  padding: 12px 16px;
+}
